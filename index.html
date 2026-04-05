@@ -91,6 +91,9 @@
 
     window.onclick = (e) => { if(e.target.className === 'modal') closeModal(); }
     init();
+    window.onbeforeunload = function() {
+        return "SHUT UP GOGUARDIAN";
+    };
 </script>
 
 </body>
