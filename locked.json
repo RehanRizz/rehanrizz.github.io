@@ -1,8 +1,20 @@
 [
   {
-    "name": "Production DB",
-    "tag": "Database",
-    "desc": "Live DB access.",
-    "url": "aHR0cHM6Ly9teXNxbC5jb20="
+    "name": "GamerHub",
+    "tag": "Game Site",
+    "desc": "Cool OG UBG.",
+    "url": "aHR0cHM6Ly9naGdhbWVzLm5ldGxpZnkuYXBw"
+  },
+  {
+    "name": "GamerLab",
+    "tag": "Game Site",
+    "desc": "The PhantomtaxAI summer project.",
+    "url": "aHR0cHM6Ly9waGFudG9tLWdhbWVzLm5ldGxpZnkuYXBwLw=="
+  },
+  {
+    "name": "DotGUI",
+    "tag": "Game Site",
+    "desc": "#1 most OG project by DotLYhiyou.",
+    "url": "aHR0cHM6Ly96ZW5pdGh1Yi5wYWdlcy5kZXYv"
   }
 ]
