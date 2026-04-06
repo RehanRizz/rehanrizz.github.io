@@ -22,5 +22,17 @@
     "tag": "Git",
     "desc": "Cloud source control.",
     "url": "aHR0cHM6Ly9naXRodWIuY29t"
+  },
+  {
+    "name": "GitLab",
+    "tag": "Git",
+    "desc": "Open core software company.",
+    "url": "aHR0cHM6Ly9naXRsYWIuY29tLw=="
+  },
+  {
+    "name": "Real Favicon",
+    "tag": "Icon",
+    "desc": "Favicon generator.",
+    "url": "aHR0cHM6Ly9yZWFsZmF2aWNvbmdlbmVyYXRvci5uZXQv"
   }
 ]
