@@ -34,5 +34,137 @@
     "tag": "Icon",
     "desc": "Favicon generator.",
     "url": "aHR0cHM6Ly9yZWFsZmF2aWNvbmdlbmVyYXRvci5uZXQv"
+  },
+  {
+    "name": "Netlify",
+    "tag": "Hosting",
+    "desc": "Web hosting and automation.",
+    "url": "aHR0cHM6Ly93d3cubmV0bGlmeS5jb20v"
+  },
+  {
+    "name": "Figma",
+    "tag": "Design",
+    "desc": "Collaborative interface design.",
+    "url": "aHR0cHM6Ly93d3cuZmlnbWEuY29tLw=="
+  },
+  {
+    "name": "Can I Use",
+    "tag": "Reference",
+    "desc": "Browser support tables.",
+    "url": "aHR0cHM6Ly9jYW5pdXNlLmNvbS8="
+  },
+  {
+    "name": "Squoosh",
+    "tag": "Image",
+    "desc": "Image compression tool.",
+    "url": "aHR0cHM6Ly9zcXVvb3NoLmFwcC8="
+  },
+  {
+    "name": "Vercel",
+    "tag": "Hosting",
+    "desc": "Frontend deployment platform.",
+    "url": "aHR0cHM6Ly92ZXJjZWwuY29tLw=="
+  },
+  {
+    "name": "Svelte",
+    "tag": "Docs",
+    "desc": "Cybernetic framework docs.",
+    "url": "aHR0cHM6Ly9zdmVsdGUuZGV2L2RvY3M="
+  },
+  {
+    "name": "Astro",
+    "tag": "Docs",
+    "desc": "Web framework docs.",
+    "url": "aHR0cHM6Ly9kb2NzLmFzdHJvLmJ1aWxkLw=="
+  },
+  {
+    "name": "Tailwind CSS",
+    "tag": "Docs",
+    "desc": "Utility-first CSS docs.",
+    "url": "aHR0cHM6Ly90YWlsd2luZGNzcy5jb20vZG9jcw=="
+  },
+  {
+    "name": "React",
+    "tag": "Docs",
+    "desc": "UI library documentation.",
+    "url": "aHR0cHM6Ly9yZWFjdC5kZXYv"
+  },
+  {
+    "name": "Python",
+    "tag": "Language",
+    "desc": "Official Python homepage.",
+    "url": "aHR0cHM6Ly93d3cucHl0aG9uLm9yZy8="
+  },
+  {
+    "name": "JavaScript",
+    "tag": "Language",
+    "desc": "MDN JS reference.",
+    "url": "aHR0cHM6Ly9kZXZlbG9wZXIubW96aWxsYS5vcmcvZW4tVVMvZG9jcy9XZWIvSmF2YVNjcmlwdA=="
+  },
+  {
+    "name": "Rust",
+    "tag": "Language",
+    "desc": "Rust language homepage.",
+    "url": "aHR0cHM6Ly93d3cucnVzdC1sYW5nLm9yZy8="
+  },
+  {
+    "name": "Go",
+    "tag": "Language",
+    "desc": "Go programming language.",
+    "url": "aHR0cHM6Ly9nby5kZXYv"
+  },
+  {
+    "name": "Java",
+    "tag": "Language",
+    "desc": "Java official site.",
+    "url": "aHR0cHM6Ly93d3cub3JhY2xlLmNvbS9qYXZhLw=="
+  },
+  {
+    "name": "NPM",
+    "tag": "Package",
+    "desc": "Node package manager.",
+    "url": "aHR0cHM6Ly93d3cubnBtanMuY29tLw=="
+  },
+  {
+    "name": "PIP",
+    "tag": "Package",
+    "desc": "Python package index.",
+    "url": "aHR0cHM6Ly9weXBpLm9yZy8="
+  },
+  {
+    "name": "Styled Components",
+    "tag": "Library",
+    "desc": "Visual primitives for React.",
+    "url": "aHR0cHM6Ly9zdHlsZWQtY29tcG9uZW50cy5jb20v"
+  },
+  {
+    "name": "Emotion",
+    "tag": "Library",
+    "desc": "CSS-in-JS library.",
+    "url": "aHR0cHM6Ly9lbW90aW9uLnNoL2RvY3MvaW50cm9kdWN0aW9u"
+  },
+  {
+    "name": "PostgreSQL",
+    "tag": "Database",
+    "desc": "Open source SQL database.",
+    "url": "aHR0cHM6Ly93d3cucG9zdGdyZXNxbC5vcmcvZG9jcy8="
+  },
+  {
+    "name": "MongoDB",
+    "tag": "Database",
+    "desc": "NoSQL document database.",
+    "url": "aHR0cHM6Ly93d3cubW9uZ29kYi5jb20vZG9jcy8="
+  },
+  {
+    "name": "Jest",
+    "tag": "Test",
+    "desc": "Delightful JavaScript testing.",
+    "url": "aHR0cHM6Ly9qZXN0anMuaW8vZG9jcy9nZXR0aW5nLXN0YXJ0ZWQ="
+  },
+  {
+    "name": "Playwright",
+    "tag": "Test",
+    "desc": "End-to-end browser testing.",
+    "url": "aHR0cHM6Ly9wbGF5d3JpZ2h0LmRldi9kb2NzL2ludHJv"
   }
 ]
